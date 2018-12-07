@@ -1,4 +1,4 @@
-import { combineReducers } from 'redux';
-import color from './color';
+import { combineReducers } from "redux";
+import number from "./number";
 
-export default combineReducers({ color });
+export default combineReducers({ number });
